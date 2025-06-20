@@ -23,7 +23,6 @@ __pycache__/
 .Python
 .installed.cfg
 MANIFEST
-build/
 dist/
 downloads/
 lib/
